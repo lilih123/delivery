@@ -1,0 +1,48 @@
+*{
+    padding: 0%;
+    border: 0cap;
+    margin: 0%;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+header{
+    display: flex;
+}
+.voltar{
+    background-color:white ;
+    padding-left: 350px;
+    padding-top: 30px;
+}
+button{
+    width: 350px;
+    height: 50px;
+    background-color: #5BEE84;
+}
+.imglogo{
+    height: 100px;
+}
+main{
+   padding-top: 50px;
+    padding-left: 500px;
+    background-color: #47B265;
+    height: 100vh;
+}
+.divinput{
+display: block;
+}
+div{
+    padding-top: 10px;
+}
+input{
+    padding-bottom: 4px;
+    padding-right: 10px;
+    padding-left: 5px;
+    padding-top: 4px;
+    border-radius: 20px;
+}
+label{
+    font-size: large ;
+    padding-right: 5px;
+}

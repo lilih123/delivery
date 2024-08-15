@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+    border: 0cap;
+    margin: 0%;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+header{
+    display: flex;
+}
+.voltar{
+    background-color:white ;
+    padding-left: 350px;
+    padding-top: 30px;
+}
+button{
+    width: 350px;
+    height: 50px;
+    background-color: #5BEE84;
+}
+.imglogo{
+    height: 100px;
+}
+main{
+   padding-top: 50px;
+    padding-left: 500px;
+    background-color: #47B265;
+    height: 100vh;
+}

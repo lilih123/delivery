@@ -1,0 +1,32 @@
+*{
+    padding: 0%;
+    border: 0cap;
+    margin: 0%;
+}
+.imglogo{
+    height: 100px;
+}
+main{
+    background-color: #47B265;
+    height: 100vh;
+}
+.imgseja{
+    padding: 50px 0 0 450px;
+}
+.bnt{
+    padding: 20px;
+    padding-left: 700px;
+}
+#bntpa{
+    padding-top: 100px;
+}
+button{
+    height: 50px;
+    width:100px;
+    border-radius: 20px;
+}
+a{
+    font-weight: 1000;
+    color: black;
+    text-decoration: none;
+}

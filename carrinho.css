@@ -1,0 +1,61 @@
+*{
+    padding: 0%;
+    border: 0cap;
+    margin: 0%;
+}
+button{
+    width: 350px;
+    height: 50px;
+    background-color: #5BEE84;
+}
+.voltar{
+    background-color:white ;
+    padding-left: 350px;
+    padding-top: 30px;
+}
+header{
+    display: flex;
+}
+.imglogo{
+    height: 100px;
+}
+main{
+    background-color: #47B265;
+    height: 110vh;
+    padding-left: 250px;
+}
+.pai{
+    gap: 50px;
+    display: flex;
+    padding-bottom: 40px;
+}
+.produto{
+    border-radius: 20px;
+    background-color: #5BEE84;
+    height: 281px;
+    width: 306px;
+}
+.produtoDentro{
+    padding-left: 15px;
+    padding-top: 40px;
+    height: 150px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+#h1{
+    padding-left: 300px;
+    padding-bottom: 100px;
+}
+.h1{
+    padding-left: 115px;
+}
+#banana{
+    padding-left: 95px;
+}
+.arrumar{
+    padding-top: 40px;
+    padding-left: 20px;
+    height: 150px;
+}
